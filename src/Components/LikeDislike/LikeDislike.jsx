@@ -10,7 +10,7 @@ const LikeDislike = (props) => {
 
     const handleLikeClick = () => {
         if(likeButtonClass === "gray"){
-            setLikeButtonClass("yellow")
+            setLikeButtonClass("green")
             setDislikeButtonClass("grey")
         }
         else{

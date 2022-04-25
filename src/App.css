@@ -1,6 +1,6 @@
 *, *::before, *::after{
     box-sizing: border-box;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: FreeMono, monospace;
 
 }
 
@@ -29,9 +29,9 @@ h2{
 #root{
     width: 800px;
     max-width: 80%;
-    background-color: rgb(153, 29, 136);
-    padding: 10px;
+    background-color: rgba(99, 85, 163, 0.856);
+    padding: 12px;
     border-radius: 5px;
     box-shadow: 0 0 10px 2px rgb(153, 29, 136);
-    color: white;
+    color: rgb(235, 188, 188);
 }

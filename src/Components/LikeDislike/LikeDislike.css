@@ -1,0 +1,19 @@
+button{
+
+    cursor: pointer;
+    outline: 0;
+}
+.btn:focus {
+    outline: none;
+  }
+
+  .yellow{
+    color: rgb(255, 238, 0);
+  }
+
+  .red{
+    color: red;
+  }
+  .gray{
+    color: rgb(138, 132, 132);
+} 

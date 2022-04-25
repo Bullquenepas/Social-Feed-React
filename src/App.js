@@ -16,7 +16,6 @@ function App() {
    
   return (
     <div className="App">
-      Function app+ App!
       <CreatePost addNewPost={addNewPost}/>
       <DisplayPosts pagePosts={posts}/>
     </div>
